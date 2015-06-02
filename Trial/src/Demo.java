@@ -14,6 +14,6 @@ private static void displayGreeting()
 {
  System.out.println("Hello Happy Sales People!");
  System.out.println("This app shows sales data");
-
+ System.out.println("Test 1");
 }
 }
